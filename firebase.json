@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "sd24-tourist-guide",
+                    "appId": "1:563511504460:android:1d73e2e332f6e17208cee9",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "sd24-tourist-guide",
+                    "configurations": {
+                        "android": "1:563511504460:android:1d73e2e332f6e17208cee9",
+                        "ios": "1:563511504460:ios:6f4eecbbf87252cc08cee9",
+                        "macos": "1:563511504460:ios:6f4eecbbf87252cc08cee9",
+                        "web": "1:563511504460:web:92e54c4c2846265508cee9",
+                        "windows": "1:563511504460:web:21f79ec4c0898af708cee9"
+                    }
+                }
+            }
+        }
+    }
+}

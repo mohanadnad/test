@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "563511504460",
+    "project_id": "sd24-tourist-guide",
+    "storage_bucket": "sd24-tourist-guide.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563511504460:android:1d73e2e332f6e17208cee9",
+        "android_client_info": {
+          "package_name": "com.example.sudan_tourist_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563511504460-u5imcpc46ajsgrr80kt835tiirht4h9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sudan_tourist_guide",
+            "certificate_hash": "4e7a8b0ac4998d6f93fe66999168f734ac0245f0"
+          }
+        },
+        {
+          "client_id": "563511504460-l4pgrpmds1s7pahsd2a0541i6hp0nnvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabKIrQlWRVXklwBm7nNmfzZsN7iz_URk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563511504460-l4pgrpmds1s7pahsd2a0541i6hp0nnvp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563511504460-5vhk291o847ci8m1ahkhin537u0q6h0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sudanTouristGuide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
